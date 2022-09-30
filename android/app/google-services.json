@@ -1,0 +1,39 @@
+  {
+  "project_info": {
+    "project_number": "7239109593",
+    "project_id": "mighty-ui-kit",
+    "storage_bucket": "mighty-ui-kit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7239109593:android:ec0cfe91b05eabdc6f27c8",
+        "android_client_info": {
+          "package_name": "com.mighty.mightyuikit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7239109593-n0huogncg0dcjrrbek06ahb2cam4afmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQAFU6W3a7jJx7LwFGJmU06PVt0yDDP1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7239109593-n0huogncg0dcjrrbek06ahb2cam4afmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
